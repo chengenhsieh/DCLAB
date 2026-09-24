@@ -1,0 +1,1 @@
+vcs ../tb/AudRecorder/tb_AudRecorder.sv ../../src/AudRecorder.sv -full64 -R -debug_access+all -sverilog +access+rw

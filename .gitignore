@@ -1,0 +1,47 @@
+# ---- 課程繳交用壓縮檔 / 可編輯原始檔（內容與 repo 中的原始碼、PDF 報告重複）----
+*.zip
+*.docx
+*.pptx
+
+# ---- 個人練習 / 暫存 ----
+/test/
+/readme
+/Makefile
+
+# ---- 模擬產物 (VCS / Verdi / iverilog) ----
+*.out
+*.vvp
+*.vcd
+*.fsdb
+*.vpd
+csrc/
+simv
+simv.daidir/
+ucli.key
+novas*
+verdiLog/
+DVEfiles/
+*.log
+
+# ---- Quartus 產物 ----
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+*.qws
+*.sof
+*.pof
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.pin
+*.qarlog
+.qsys_edit/
+
+# ---- 系統 ----
+.DS_Store
+Thumbs.db
+desktop.ini

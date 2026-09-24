@@ -1,0 +1,1 @@
+vcs ../tb/recorder/tb_recorder.sv ../../src/recorder.sv -full64 -R -debug_access+all -sverilog +access+rw

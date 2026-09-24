@@ -1,0 +1,1 @@
+vcs ../tb/test/tb_test.sv ../../src/Toptest.sv ../../src/I2cInitializer.sv ../../src/ps2_rx.sv ../../src/gen.sv ../../src/event_sync.sv ../../src/player.sv -full64 -R -debug_access+all -sverilog +access+rw

@@ -1,0 +1,1 @@
+vcs ../tb/ps2_rx/tb_ps2_rx.sv ../../src/ps2_rx.sv -full64 -R -debug_access+all -sverilog +access+rw

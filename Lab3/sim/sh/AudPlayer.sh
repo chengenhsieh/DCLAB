@@ -1,0 +1,1 @@
+vcs ../tb/AudPlayer/tb_AudPlayer.sv ../../src/AudPlayer.sv -full64 -R -debug_access+all -sverilog +access+rw
